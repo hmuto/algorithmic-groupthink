@@ -1,4 +1,5 @@
 # Algorithmic Groupthink: Code and Data
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19676464.svg)](https://doi.org/10.5281/zenodo.19676464)
 
 This repository contains the code, data, and analysis scripts for the paper:
 
