@@ -12,8 +12,8 @@ authors:
 version: "1.0.0"
 date-released: 2026-04-20
 license: MIT
-repository-code: "https://github.com/hmuto/algorithmic-groupthink"
+repository-code: "https://github.com/hmuto/algorithmic-groupthink-paper"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.19659743
+    value: 10.5281/zenodo.19676464
     description: "Zenodo archive of this repository"

@@ -25,7 +25,7 @@ This repository contains the code, data, and analysis scripts for the paper:
 ### Installation
 
 ```bash
-git clone https://github.com/hmuto/algorithmic-groupthink.git
+git clone https://github.com/hmuto/algorithmic-groupthink-paper.git
 cd algorithmic-groupthink
 pip install -r requirements.txt
 ```
