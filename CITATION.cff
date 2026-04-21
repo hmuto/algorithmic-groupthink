@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the Zenodo archive of this repository. An accompanying manuscript is in preparation."
+title: "Algorithmic Groupthink: Code and Data for Measuring and Mitigating Semantic Convergence in Multi-agent LLM Systems"
+authors:
+  - family-names: Muto
+    given-names: Hideki
+    affiliation: "Graduate School of System Design and Management, Keio University"
+    email: muto@keio.jp
+  - family-names: Ogi
+    given-names: Tetsuro
+    affiliation: "Graduate School of System Design and Management, Keio University"
+version: "1.0.0"
+date-released: 2026-04-20
+license: MIT
+repository-code: "https://github.com/hmuto/algorithmic-groupthink"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19659743
+    description: "Zenodo archive of this repository"

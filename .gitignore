@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+venv_*/
+.venv/
+env/
+ENV/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local run artefacts (not shared)
+*.log
+run_log.jsonl
+run_log.txt
+embedding_cache/
+embeddings_cache.npy
+*.pkl
+
+# Environment / secrets
+.env
+.env.*
+api_keys.txt
+
+# Large intermediate results (not in published dataset)
+results_test/
+results_v2/
+results_v2_all/
+results_realistic_*/
+
+# Output from individual runs (regenerated from raw CSV)
+figures/*.pdf
+figures/*.png
+!figures/.gitkeep
