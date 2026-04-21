@@ -152,8 +152,8 @@ A manuscript describing this work is currently in preparation for submission. Un
             Mitigating Semantic Convergence in Multi-agent LLM Systems},
   author = {Muto, Hideki and Ogi, Tetsuro},
   year   = {2026},
-  doi    = {10.5281/zenodo.19659743},
-  url    = {https://doi.org/10.5281/zenodo.19659743}
+  doi    = {10.5281/zenodo.19676464},
+  url    = {https://doi.org/10.5281/zenodo.19676464}
 }
 ```
 
@@ -180,3 +180,4 @@ This section will be updated with the full journal reference once the paper is p
 
 Hideki Muto (muto@keio.jp)
 Graduate School of System Design and Management, Keio University
+
