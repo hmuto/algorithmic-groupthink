@@ -112,6 +112,7 @@ Each CSV file under `data/raw_outputs/` has the following columns:
 | GPT-4o | OpenAI | March 2026 | 1.0 |
 | text-embedding-3-small | OpenAI | (embeddings) | — |
 | all-MiniLM-L6-v2 (Sentence-BERT) | Local | (robustness check) | — |
+| Gemini 2.5 Flash | Google | April 2026 | 1.0 |
 
 ## Task set (20 open-ended tasks)
 

@@ -58,6 +58,11 @@ MODEL_CONFIGS = {
         "model_id": "gemini-2.0-flash-exp",
         "temperature": 1.0,
     },
+    "gemini-2.5-flash": {
+        "provider": "google",
+        "model_id": "gemini-2.5-flash",
+        "temperature": 1.0,
+    },
 }
 
 # =========================
